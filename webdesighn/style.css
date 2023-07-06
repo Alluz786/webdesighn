@@ -1,0 +1,16 @@
+
+  h2{
+    color: ghostwhite;
+  }
+  
+  footer {
+    position: fixed;
+    height: 30px;
+    bottom: 0;
+    width: 100%;
+}
+.bi-instagram{
+  float: right;
+ margin: auto;
+ text-align: center;
+}
